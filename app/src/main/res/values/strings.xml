@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimalQuiz</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="welcome">Welcome!</string>
+    <string name="please_enter_your_name">Please enter your name!</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="result">Result:</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="splashtext">Animal Quiz</string>
+</resources>
