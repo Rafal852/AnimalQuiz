@@ -14,7 +14,7 @@ After clicking on one of options background of the answer changes color to green
 
 ![image](https://user-images.githubusercontent.com/84230029/192526913-ffde1413-60c3-4307-88df-48fbcf11dc35.png)
 
-If user pick wrong option answers background changes to red, and the right answers to green
+If user picks wrong option background of the answer changes to red, and the right answer to green
 
 ![image](https://user-images.githubusercontent.com/84230029/192527292-88534426-4639-4ed8-94d5-1cac0b0d494c.png)
 
