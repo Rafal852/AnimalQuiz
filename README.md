@@ -18,6 +18,6 @@ If user picks wrong option background of the answer changes to red, and the righ
 
 ![image](https://user-images.githubusercontent.com/84230029/192527292-88534426-4639-4ed8-94d5-1cac0b0d494c.png)
 
-After 10 questions score of user is shown
+After 10 questions score of user is shown and after clicking "Finish" user is asked to enter their name once more to start quiz again
 
 ![image](https://user-images.githubusercontent.com/84230029/192527885-318199dd-2fd0-43ff-a687-41b1c9c562ce.png)
